@@ -530,7 +530,7 @@ var data = [
 },
 {
 	"rent" : 25200,
-	"sft" : 1800,
+	"sqft" : 1800,
 	"city" : "Rosemount",
 	"__v" : 0
 },
