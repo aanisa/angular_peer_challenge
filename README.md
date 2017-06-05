@@ -17,3 +17,4 @@ http://codepen.io/docix/pen/bqJNRr
 ## Pro Mode
 Instead of clicking on the element container to delete the information, create a button inside the container that delete the whole parent container.
 Just like we did in jQuery ( jQuery code example, $(this).parent().remove() ). 
+
