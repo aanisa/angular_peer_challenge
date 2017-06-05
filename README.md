@@ -1,4 +1,4 @@
-# Prime Digital Academy - Code Challenge
+# Prime Digital Academy - Peer Code Challenge
 
 In this assignment, we are going to work with the list of information provided in the previous weekend challenge (property listings). It has been updated for correct Javascript notation for an array. Meaning that you are not working with the response from a server, but rather just an array of inforamtion. 
 
